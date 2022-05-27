@@ -1,0 +1,14 @@
+# JacoboTuber Contract
+
+//contact name
+pub contract JacoboTucker{
+
+//constant variable
+pub let is: String
+
+init() {
+
+self.is = "the best"
+}
+
+}
